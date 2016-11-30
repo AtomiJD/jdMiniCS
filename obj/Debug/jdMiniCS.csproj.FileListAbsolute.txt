@@ -1,0 +1,10 @@
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\jdMiniCS.exe.config
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\jdMiniCS.exe
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\jdMiniCS.pdb
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.frmAbout.resources
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.frmMain.resources
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.Properties.Resources.resources
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.csproj.GenerateResource.Cache
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.exe
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.pdb
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="jdMiniCS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CSharpTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">template.cs</Value>
+    </Setting>
+    <Setting Name="UsingsExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">system.dll
+system.xml.dll
+System.Data.dll
+System.Drawing.dll
+system.core.dll
+System.Windows.Forms.dll</Value>
+    </Setting>
+    <Setting Name="UsingsMem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">system.dll
+system.xml.dll
+System.Data.dll
+System.Drawing.dll
+system.core.dll
+System.Windows.Forms.dll</Value>
+    </Setting>
+    <Setting Name="CompilerOptionsExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/optimize</Value>
+    </Setting>
+    <Setting Name="CompilerOptionsMem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/t:library</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
