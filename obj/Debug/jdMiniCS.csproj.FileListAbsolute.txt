@@ -1,6 +1,8 @@
 C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\jdMiniCS.exe.config
 C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\jdMiniCS.exe
 C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\jdMiniCS.pdb
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\FastColoredTextBox.dll
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Debug\FastColoredTextBox.xml
 C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.frmAbout.resources
 C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.frmMain.resources
 C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Debug\jdMiniCS.Properties.Resources.resources

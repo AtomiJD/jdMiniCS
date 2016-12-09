@@ -1,0 +1,12 @@
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Release\jdMiniCS.exe.config
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Release\jdMiniCS.exe
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Release\jdMiniCS.pdb
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Release\FastColoredTextBox.dll
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\bin\Release\FastColoredTextBox.xml
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Release\jdMiniCS.csprojResolveAssemblyReference.cache
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Release\jdMiniCS.frmAbout.resources
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Release\jdMiniCS.frmMain.resources
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Release\jdMiniCS.Properties.Resources.resources
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Release\jdMiniCS.csproj.GenerateResource.Cache
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Release\jdMiniCS.exe
+C:\Users\Achim\documents\visual studio 2012\Projects\jdMiniCS\jdMiniCS\obj\Release\jdMiniCS.pdb
